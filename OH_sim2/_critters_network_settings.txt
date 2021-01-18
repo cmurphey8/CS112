@@ -1,0 +1,6 @@
+#CPSC112 Critters saved network settings
+#Tue Jan 05 15:18:44 EST 2021
+fps=51
+backgroundColors=true
+lastHostName=
+accept=ask
